@@ -1,0 +1,16 @@
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\bin\Debug\net8.0-windows\PSP1tryCursWork.exe
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\bin\Debug\net8.0-windows\PSP1tryCursWork.deps.json
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\bin\Debug\net8.0-windows\PSP1tryCursWork.runtimeconfig.json
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\bin\Debug\net8.0-windows\PSP1tryCursWork.dll
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\bin\Debug\net8.0-windows\PSP1tryCursWork.pdb
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.PlayerForm.resources
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.csproj.GenerateResource.cache
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.AssemblyInfoInputs.cache
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.AssemblyInfo.cs
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.csproj.CoreCompileInputs.cache
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.dll
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\refint\PSP1tryCursWork.dll
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.pdb
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\PSP1tryCursWork.genruntimeconfig.cache
+C:\torrentdaun\PSP1tryCursWork\PSP1tryCursWork\obj\Debug\net8.0-windows\ref\PSP1tryCursWork.dll

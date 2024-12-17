@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PSP1tryCursWork/1.0.0": {
+        "runtime": {
+          "PSP1tryCursWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSP1tryCursWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
