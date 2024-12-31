@@ -1,0 +1,9 @@
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\bin\Debug\NetworkLibrary.dll
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\bin\Debug\NetworkLibrary.pdb
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\obj\Debug\NetworkLibrary.csproj.AssemblyReference.cache
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\obj\Debug\NetworkLibrary.csproj.CoreCompileInputs.cache
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\obj\Debug\NetworkL.E096B22C.Up2Date
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\obj\Debug\NetworkLibrary.dll
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\NetworkLibrary\obj\Debug\NetworkLibrary.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameLibrary.Factory.PrizeFactory" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\PrizeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Factory.SlowingPrizeFactory" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\SlowingPrizeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Factory.SpeedPrizeFactory" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\SpeedPrizeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.Factory.FuelPrizeFactory" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\FuelPrizeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameLibrary.GameObjects.SpawnManager" Collapsed="true">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAgAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAA=</HashCode>
+      <FileName>GameObjects\SpawnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

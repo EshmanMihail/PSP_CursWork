@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EngineLibrary.ColliderComponent" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAEAAAAAAAAgACAAAAAgEAAgAAgIIAAgA=</HashCode>
+      <FileName>ColliderComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.ContentPipe" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentPipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.Game" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAQAAAAABAAAhAACIAAAAABAAAAkKAQgAAAAAgE=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.GameObject" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAEAAAAAQAAAABAAAQAAIAAEAgAAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EngineLibrary.Input" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.ObjectScript" Collapsed="true">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>ObjectScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.Scene" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBAACAAAAAAA=</HashCode>
+      <FileName>Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.SpriteBatch" Collapsed="true">
+    <Position X="4.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpriteBatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.Texture2D" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAgAQAQAAAAEAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Texture2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.TexturesBox" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAABADAAAEAAAAAAAAgQAACAAIAAEAAAAA=</HashCode>
+      <FileName>TexturesBox.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EngineLibrary.Time" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAABQABAAAAAAAAAAAAAAAAAAAEgAAAAAA=</HashCode>
+      <FileName>Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EngineLibrary.TransformComponent" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAgAAAAAAAAAgAAIAQAAAAAAAAAACAEAAAAAAAAA=</HashCode>
+      <FileName>TransformComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

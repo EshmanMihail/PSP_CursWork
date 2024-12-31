@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C67E9C3F-B514-4E89-B9EA-0305A619825F}|StressTests\\SystemTests.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0441\u043F\\cursworkpsp\\races\\stresstests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67E9C3F-B514-4E89-B9EA-0305A619825F}|StressTests\\SystemTests.csproj|solutionrelative:stresstests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6AC14-0D8D-4798-96D1-FD45931BF1CD}|NetworkLibrary\\NetworkLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\networklibrary\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6AC14-0D8D-4798-96D1-FD45931BF1CD}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6AC14-0D8D-4798-96D1-FD45931BF1CD}|NetworkLibrary\\NetworkLibrary.csproj|c:\\\u0443\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0441\u043F\\cursworkpsp\\races\\networklibrary\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6AC14-0D8D-4798-96D1-FD45931BF1CD}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\network\\networkdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\network\\networkdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C6AC14-0D8D-4798-96D1-FD45931BF1CD}|NetworkLibrary\\NetworkLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\networklibrary\\inetworkhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C6AC14-0D8D-4798-96D1-FD45931BF1CD}|NetworkLibrary\\NetworkLibrary.csproj|solutionrelative:networklibrary\\inetworkhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\map\\racepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\map\\racepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\map\\mazeelementsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\map\\mazeelementsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\map\\maps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\map\\maps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\map\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\map\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\gameobjects\\typeproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\gameobjects\\typeproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\gameobjects\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\gameobjects\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\gameobjects\\playerproperities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\gameobjects\\playerproperities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\gameobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\gameobjects\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\gameobjects\\networkplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\gameobjects\\baseplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\gameobjects\\baseplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\network\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\network\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\player\\standartproperities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\player\\standartproperities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\player\\speeddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\player\\speeddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\player\\slowdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\player\\slowdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\player\\playerconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\player\\playerconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\player\\decoratorproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\player\\decoratorproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\prize\\typeprize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\prize\\typeprize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\prize\\prizespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\prize\\prizespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\levelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\levelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\factory\\speedprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\factory\\speedprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\factory\\slowingprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\factory\\slowingprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\factory\\prizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\factory\\prizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\gamelibrary\\factory\\fuelprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E543D6-4867-4A03-B13D-5C6DBB29BD65}|GameLibrary\\GameLibrary.csproj|solutionrelative:gamelibrary\\factory\\fuelprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{153C4607-53EB-479E-9D35-4A7BA288D57E}|Races\\Races.csproj|C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\races\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{153C4607-53EB-479E-9D35-4A7BA288D57E}|Races\\Races.csproj|solutionrelative:races\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkData.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Network\\NetworkData.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Network\\NetworkData.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Network\\NetworkData.cs",
+              "RelativeToolTip": "GameLibrary\\Network\\NetworkData.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:46:44.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\StressTests\\Program.cs",
+              "RelativeDocumentMoniker": "StressTests\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\StressTests\\Program.cs",
+              "RelativeToolTip": "StressTests\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:14:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\NetworkLibrary\\Server.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\Server.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\NetworkLibrary\\Server.cs",
+              "RelativeToolTip": "NetworkLibrary\\Server.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:53:54.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\NetworkLibrary\\Client.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\Client.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\NetworkLibrary\\Client.cs*",
+              "RelativeToolTip": "NetworkLibrary\\Client.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:53:18.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MazeElementsFactory.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Map\\MazeElementsFactory.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Map\\MazeElementsFactory.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Map\\MazeElementsFactory.cs",
+              "RelativeToolTip": "GameLibrary\\Map\\MazeElementsFactory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:51:14.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Maps.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Map\\Maps.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Map\\Maps.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Map\\Maps.cs",
+              "RelativeToolTip": "GameLibrary\\Map\\Maps.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:50:55.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameEvents.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Map\\GameEvents.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Map\\GameEvents.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Map\\GameEvents.cs",
+              "RelativeToolTip": "GameLibrary\\Map\\GameEvents.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:50:36.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TypeProperty.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\TypeProperty.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\GameObjects\\TypeProperty.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\TypeProperty.cs",
+              "RelativeToolTip": "GameLibrary\\GameObjects\\TypeProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:50:07.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RacePoint.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Map\\RacePoint.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Map\\RacePoint.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Map\\RacePoint.cs",
+              "RelativeToolTip": "GameLibrary\\Map\\RacePoint.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:51:42.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INetworkHandler.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\NetworkLibrary\\INetworkHandler.cs",
+              "RelativeDocumentMoniker": "NetworkLibrary\\INetworkHandler.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\NetworkLibrary\\INetworkHandler.cs",
+              "RelativeToolTip": "NetworkLibrary\\INetworkHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:53:38.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\GameObjects\\SpawnManager.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\SpawnManager.cs",
+              "RelativeToolTip": "GameLibrary\\GameObjects\\SpawnManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:49:52.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerProperities.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\PlayerProperities.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\GameObjects\\PlayerProperities.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\PlayerProperities.cs",
+              "RelativeToolTip": "GameLibrary\\GameObjects\\PlayerProperities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:49:13.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\Player.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\GameObjects\\Player.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\Player.cs",
+              "RelativeToolTip": "GameLibrary\\GameObjects\\Player.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:48:54.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NetworkPlayer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\NetworkPlayer.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\GameObjects\\NetworkPlayer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\NetworkPlayer.cs",
+              "RelativeToolTip": "GameLibrary\\GameObjects\\NetworkPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:48:30.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasePlayer.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\BasePlayer.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\GameObjects\\BasePlayer.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\GameObjects\\BasePlayer.cs",
+              "RelativeToolTip": "GameLibrary\\GameObjects\\BasePlayer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:48:10.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Network\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Network\\NetworkManager.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Network\\NetworkManager.cs",
+              "RelativeToolTip": "GameLibrary\\Network\\NetworkManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:46:48.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StandartProperities.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\StandartProperities.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Player\\StandartProperities.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\StandartProperities.cs",
+              "RelativeToolTip": "GameLibrary\\Player\\StandartProperities.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:46:18.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpeedDecorator.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\SpeedDecorator.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Player\\SpeedDecorator.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\SpeedDecorator.cs",
+              "RelativeToolTip": "GameLibrary\\Player\\SpeedDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:45:58.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SlowDecorator.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\SlowDecorator.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Player\\SlowDecorator.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\SlowDecorator.cs",
+              "RelativeToolTip": "GameLibrary\\Player\\SlowDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:45:39.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerConstructor.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\PlayerConstructor.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Player\\PlayerConstructor.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\PlayerConstructor.cs",
+              "RelativeToolTip": "GameLibrary\\Player\\PlayerConstructor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:45:06.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DecoratorProperty.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\DecoratorProperty.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Player\\DecoratorProperty.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Player\\DecoratorProperty.cs",
+              "RelativeToolTip": "GameLibrary\\Player\\DecoratorProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:44:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TypePrize.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Prize\\TypePrize.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Prize\\TypePrize.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Prize\\TypePrize.cs",
+              "RelativeToolTip": "GameLibrary\\Prize\\TypePrize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:44:17.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PrizeSpawn.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Prize\\PrizeSpawn.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Prize\\PrizeSpawn.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Prize\\PrizeSpawn.cs",
+              "RelativeToolTip": "GameLibrary\\Prize\\PrizeSpawn.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:43:55.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LevelScene.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\LevelScene.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\LevelScene.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\LevelScene.cs",
+              "RelativeToolTip": "GameLibrary\\LevelScene.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAmwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:43:29.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SpeedPrizeFactory.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Factory\\SpeedPrizeFactory.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Factory\\SpeedPrizeFactory.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Factory\\SpeedPrizeFactory.cs",
+              "RelativeToolTip": "GameLibrary\\Factory\\SpeedPrizeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:42:53.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SlowingPrizeFactory.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Factory\\SlowingPrizeFactory.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Factory\\SlowingPrizeFactory.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Factory\\SlowingPrizeFactory.cs",
+              "RelativeToolTip": "GameLibrary\\Factory\\SlowingPrizeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:42:32.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PrizeFactory.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Factory\\PrizeFactory.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Factory\\PrizeFactory.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Factory\\PrizeFactory.cs",
+              "RelativeToolTip": "GameLibrary\\Factory\\PrizeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:42:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FuelPrizeFactory.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Factory\\FuelPrizeFactory.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Factory\\FuelPrizeFactory.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\GameLibrary\\Factory\\FuelPrizeFactory.cs",
+              "RelativeToolTip": "GameLibrary\\Factory\\FuelPrizeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:41:40.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\Races\\Form1.cs",
+              "RelativeDocumentMoniker": "Races\\Form1.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0421\u041F\\CursWorkPSP\\Races\\Races\\Form1.cs [Design]",
+              "RelativeToolTip": "Races\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:12:40.741Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 604,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

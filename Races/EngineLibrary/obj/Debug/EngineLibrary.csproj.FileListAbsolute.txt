@@ -1,0 +1,16 @@
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\EngineLibrary.dll
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\EngineLibrary.pdb
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\OpenTK.dll
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\OpenTK.GLControl.dll
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\OpenTK.pdb
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\OpenTK.xml
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\OpenTK.GLControl.pdb
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\OpenTK.GLControl.xml
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\obj\Debug\EngineLibrary.csproj.AssemblyReference.cache
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\obj\Debug\EngineLibrary.csproj.CoreCompileInputs.cache
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\obj\Debug\EngineLi.85795288.Up2Date
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\obj\Debug\EngineLibrary.dll
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\obj\Debug\EngineLibrary.pdb
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\System.Drawing.Common.dll
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\System.Drawing.Common.pdb
+C:\Учёба\7 семестр\ПСП\CursWorkPSP\Races\EngineLibrary\bin\Debug\System.Drawing.Common.xml

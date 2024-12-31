@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NetworkLibrary.Server" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAECAAAAAAAABAABAAAAAAIAhAAAAAAAAAAAA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="NetworkLibrary.Client" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAECAAAAQAAAAAABAAAAAAIAhAAAAgAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="NetworkLibrary.INetworkHandler" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAABAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>INetworkHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
